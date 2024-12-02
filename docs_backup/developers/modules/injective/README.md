@@ -1,3 +1,0 @@
-# Injective
-
-## Injective Modules
