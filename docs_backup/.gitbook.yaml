@@ -1,0 +1,4 @@
+root: ./
+
+redirects:
+  develop/public-endpoints: nodes/public-endpoints.md
